@@ -1,6 +1,5 @@
-# FUTURE_DS_01
+# Online Retail Sales Analysis Dashboard -Task 1
 
-Online Retail Sales Analysis Dashboard
 
 📌Project Overview
 
